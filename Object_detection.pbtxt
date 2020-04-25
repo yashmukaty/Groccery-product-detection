@@ -1,0 +1,33 @@
+item{
+    id: 1
+    name: 'dairymilk'
+}
+item{
+     id: 2
+     name: 'shampoo'
+}
+item{
+    id: 3
+    name: 'deo'
+}
+item{
+     id: 4
+     name: 'soap'
+}
+item{
+    id: 5
+    name: 'blue_lays'
+}
+item{
+    id: 6
+    name: 'green_lays'
+}
+item{
+     id: 7
+     name: 'red_lays'
+}
+item{
+    id: 8
+    name: 'yellow_lays'
+}
+
